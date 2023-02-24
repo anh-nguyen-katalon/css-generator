@@ -8,8 +8,8 @@ How?
 
 2. Install [`css-selector-generator`](https://www.npmjs.com/package/css-selector-generator).
 
-2. Install [`browserify`](https://browserify.org) to load Node modules on browser.
+3. Install [`browserify`](https://browserify.org) to load Node modules on browser.
 
-3. Before openning `index.html`, run `browserify -o script.js bundle.js` on terminal.
+4. Before openning `index.html`, run `browserify -o script.js bundle.js` on terminal.
 
 
